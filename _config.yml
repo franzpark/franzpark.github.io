@@ -19,8 +19,8 @@ locale                   : "ko"
 title                    : "미시적 순간"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "치싱탄"
-description              : "아날로그 노마드"
+name                     : "미시적 순간"
+description              : "당신을 사로잡는 찰나의 "
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "아날로그 노마드."
   location         : "Taipei, Taiwan"
-  email            :
+  email            : "taipei@kakao.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
