@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Spanish Word of the Day / August 2018
-categories: Español
+categories: 
+  - "Español"
+tag:
+  - "Language"
+  - "Spanish"
 ---
 
 8/13 **¡Qué macana!**
