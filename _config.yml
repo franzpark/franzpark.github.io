@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "치싱탄"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : assets/images/Resized_MOCA_Taipei.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "아날로그 노마드."
   location         : "Taipei, Taiwan"
   email            : "taipei@kakao.com"
