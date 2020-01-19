@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Crawling 7 네이버 실시간 검색어 및 블로그 검색
 categories: Python
 ---

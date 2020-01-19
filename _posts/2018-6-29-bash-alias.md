@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: bash 에서 alias 추가
 categories: Dev
 ---

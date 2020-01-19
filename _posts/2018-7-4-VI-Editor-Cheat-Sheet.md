@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: VI Editor Cheat Sheet
 categories: Dev
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Crawling 3 requests 라이브러리 살펴보기
 categories: Python
 ---

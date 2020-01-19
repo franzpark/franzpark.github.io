@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Crawling 5 Pillow를 활용한 이미지 썸네일/다운로드 처리
 categories: Python
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Lecture 17 예외처리
 categories: Python
 ---

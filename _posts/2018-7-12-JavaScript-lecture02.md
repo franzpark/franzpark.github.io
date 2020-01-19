@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: JavaScript Lecture 2 숫자와 문자
 categories: JavaScript
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: JavaScript Lecture 1 소개 및 실습환경
 categories: JavaScript
 ---

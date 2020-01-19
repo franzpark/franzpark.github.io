@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Lecture 4 블록문, 들여쓰기, 주석
 categories: Python
 ---

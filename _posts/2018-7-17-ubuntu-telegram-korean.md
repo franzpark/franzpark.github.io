@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Ubuntu 18.04 LTS 텔레그램 한글입력 하는 법
 categories: Linux
 ---

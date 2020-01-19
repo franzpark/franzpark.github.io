@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  Welcome to Markdown
 date:   2018-6-20
 categories: Dev

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Lecture 12 모듈, 패키지
 categories: Python
 ---

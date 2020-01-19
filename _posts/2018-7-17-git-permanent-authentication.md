@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: 터미널에서 git 사용시 자동 로그인
 categories: Dev
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Work-Automation 3 CSV/엑셀 파일 만들기
 categories: Python
 ---

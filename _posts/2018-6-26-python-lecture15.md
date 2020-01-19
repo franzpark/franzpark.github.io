@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Lecture 15 오버로딩과 오버라이딩
 categories: Python
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Lecture 14 파일 객체
 categories: Python
 ---

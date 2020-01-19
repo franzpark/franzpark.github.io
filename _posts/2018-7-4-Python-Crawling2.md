@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Crawling 2 HTTP(S) 요청 및 응답
 categories: Python
 ---

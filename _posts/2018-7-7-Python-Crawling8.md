@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Crawling 8, 9 post 방식 페이지 분석
 categories: Python
 ---

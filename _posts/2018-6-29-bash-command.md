@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: bash 명령어
 categories: Dev
 ---

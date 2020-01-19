@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Lecture 3 기본 자료 구조
 date: 2018-6-21
 categories: Python

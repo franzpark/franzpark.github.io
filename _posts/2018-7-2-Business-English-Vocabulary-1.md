@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Business English Vocabulary
 categories: English
 ---

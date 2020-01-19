@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Lecture 9 순회가능한(Iterable) 객체
 categories: Python
 ---

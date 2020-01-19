@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Lecture 13 문자열 인코딩
 categories: Python
 ---

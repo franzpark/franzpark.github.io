@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Crawling 1 웹크롤링 시작하기
 categories: Python
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Work-Automation 1 이메일 보내기
 categories: Python
 ---

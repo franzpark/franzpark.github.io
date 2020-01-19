@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Lecture 5 흐름제어
 categories: Python
 ---

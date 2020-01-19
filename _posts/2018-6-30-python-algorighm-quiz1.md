@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Algorithm Quiz 1
 categories: Python
 ---

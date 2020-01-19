@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: IBM Blockchain essentials
 categories: Blockchain
 ---

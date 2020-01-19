@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Lecture 10 코루틴 및 제너레이터
 categories: Python
 ---

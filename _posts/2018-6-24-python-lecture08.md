@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Lecture 8 호출가능한 객체
 categories: Python
 ---

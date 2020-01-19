@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Lecture 7 클래스
 categories: Python
 ---

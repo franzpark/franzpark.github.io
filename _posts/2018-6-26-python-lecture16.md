@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Lecture 16 클래스 상속
 categories: Python
 ---

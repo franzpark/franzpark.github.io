@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Lecture 18 장식자
 categories: Python
 ---

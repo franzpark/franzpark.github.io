@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Crawling 10 네이버 카페
 categories: Python
 ---

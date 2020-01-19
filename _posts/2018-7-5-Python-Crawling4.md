@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Crawling 4 BeautifulSoup4 라이브러리
 categories: Python
 ---

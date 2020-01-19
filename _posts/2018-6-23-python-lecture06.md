@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Lecture 6 함수
 categories: Python
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Lecture 11 빌트인 함수, 정렬
 categories: Python
 ---

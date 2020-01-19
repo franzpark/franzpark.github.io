@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Spanish Word of the Day / July 2018
 categories: Español
 ---

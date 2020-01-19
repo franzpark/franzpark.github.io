@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Crawling 6 크롤링 예시 3가지
 categories: Python
 ---
