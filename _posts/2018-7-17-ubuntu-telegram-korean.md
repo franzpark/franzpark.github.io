@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Ubuntu 18.04 LTS 텔레그램 한글입력 하는 법
-categories: Linux
+categories: Dev
 ---
 
 우분투 18.04 LTS 를 설치하면 기본 입력기가 iBus 로 설정이 되어있다.
