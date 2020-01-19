@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Python Lecture 2 데이터타입
 date: 2018-6-21
 categories: Python

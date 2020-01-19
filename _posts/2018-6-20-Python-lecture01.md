@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  Python Lecture 1 시작하기
 date:   2018-6-20
 categories: Python
