@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Spanish Word of the Day / July 2018
-categories: Español
+categories: Spanish
 ---
 
 7/6 **bacano**

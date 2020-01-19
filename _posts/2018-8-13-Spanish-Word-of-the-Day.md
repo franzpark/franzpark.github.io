@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Spanish Word of the Day / August 2018
-categories: Español
+categories: Spanish
 tag:
   - "Language"
   - "Spanish"
